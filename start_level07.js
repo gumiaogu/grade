@@ -73,7 +73,7 @@ topArea.line(245, 390, 245, 540).attr({
 
 var firstB = firstRect.use().transform('t55, 247').appendTo(topArea);
 
-var firstT = topArea.text(115, 280, ['배정한자', '한자']).attr({
+var firstT = topArea.text(115, 280, ['평가한자', '한자']).attr({
   'font-size': 20,
   'fill': '#999999',
   'text-anchor': 'middle'
@@ -94,7 +94,7 @@ function handler02() {
 
 var secondB = secondRect.use().transform('t55, 323').appendTo(topArea);
 
-var secondT = topArea.text(115, 355, ['배정한자', '퀴즈']).attr({
+var secondT = topArea.text(115, 355, ['평가한자', '퀴즈']).attr({
   'font-size': 20,
   'fill': '#666666',
   'text-anchor': 'middle'
