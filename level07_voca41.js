@@ -97,7 +97,7 @@ m2.selectAll('tspan')[1].attr({
   'fill': '#000000'
 });
 
-var m3 = hanjaArea.text(55, 390, ['선생님께서 칠판에 ', '學習', ' 목표를', '써 주셨습니다.']).attr({
+var m3 = hanjaArea.text(55, 390, ['선생님께서 칠판에 ', '學習', '목표를', '써 주셨습니다.']).attr({
   'font-size': 18,
   'fill': '#434343'
 });
