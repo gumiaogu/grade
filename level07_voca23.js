@@ -97,7 +97,7 @@ m2.selectAll('tspan')[1].attr({
   'fill': '#000000'
 });
 
-var m3 = hanjaArea.text(55, 390, ['연극배우의 ', '實感', '나는 연기에 감탄', '하였습니다.']).attr({
+var m3 = hanjaArea.text(55, 390, ['연극배우의 ', '實感', ' 나는 연기에 감탄', '하였습니다.']).attr({
   'font-size': 18,
   'fill': '#434343'
 });
